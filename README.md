@@ -77,7 +77,7 @@ actually drives the culture.
 ### 🏅 Certifications
 
 | 🏆 Certificate | 🏢 Issuer | 📅 Year | 
-|---|---|---|---|
+|---|---|---|
 | Alteryx Designer Pro | Alteryx | 2026 | 
 
 ---
