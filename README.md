@@ -4,9 +4,9 @@
 
 ### Turning raw data into real decisions. 📊
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenkapriyanka20007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRIYANKALENKA07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-lenka-26268a226/)
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 </div>
@@ -15,11 +15,11 @@
 
 ###  About Me
 
-I'm Priyanka Lenka — a Data Analyst who turns chaotic spreadsheets 
+I'm Priyanka Lenka , a Data Analyst who turns chaotic spreadsheets 
 into boardroom-ready insights.
 
 With hands-on experience in SQL, Python, Power BI, and Alteryx, 
-I specialize in building dashboards that don't just look good — 
+I specialize in building dashboards that don't just look good 
 they help teams make faster, smarter decisions.
 
 I hold an Alteryx Designer Pro certification and have worked across 
