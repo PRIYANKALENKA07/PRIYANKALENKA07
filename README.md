@@ -97,10 +97,7 @@ actually drives the culture.
 
 | Project | Description | Tools |
 |---|---|---|
-| 🛒 [Sales Dashboard](#) | Interactive sales performance tracker with KPIs and trends | Power BI, SQL |
-| 🧹 [Data Cleaning Pipeline](#) | Automated ETL pipeline for messy CSV datasets | Python, Pandas |
-| 📉 [Customer Churn Analysis](#) | Identified churn patterns using statistical analysis | R, PostgreSQL |
-| 📊 [HR Analytics Report](#) | Workforce insights dashboard for HR stakeholders | Tableau, Excel |
+| 🛒 [Sales Dashboard](https://github.com/PRIYANKALENKA07/Sales-Analysis-Dashboard-using-UI-UX/tree/571a5ab722a0bed825b09375aa89a24036e523d5) | Interactive sales performance tracker with KPIs and trends | Power BI, SQL |
 
 ---
 
