@@ -13,13 +13,22 @@
 
 ---
 
-### 🧑 About Me
+###  About Me
 
-Hello! I'm **Priyanka Lenka**, a Data Analyst passionate about transforming messy datasets into meaningful stories. I work at the intersection of business understanding and data — building dashboards, writing queries, and surfacing insights that drive better decisions.
+I'm Priyanka Lenka — a Data Analyst who turns chaotic spreadsheets 
+into boardroom-ready insights.
 
-My work spans end-to-end analytics: from data extraction and cleaning to visualization and stakeholder reporting. I believe the best analysis is one that anyone in the room can understand.
+With hands-on experience in SQL, Python, Power BI, and Alteryx, 
+I specialize in building dashboards that don't just look good — 
+they help teams make faster, smarter decisions.
 
-> *"Data is not just numbers — it's the story behind the numbers."*
+I hold an Alteryx Designer Pro certification and have worked across 
+sales, HR, and customer analytics domains.
+
+Currently open to Data Analyst / BI Analyst roles where data 
+actually drives the culture.
+
+> *"I don't just analyze data — I make it impossible to ignore."*
 
 ---
 
@@ -67,9 +76,9 @@ My work spans end-to-end analytics: from data extraction and cleaning to visuali
 ---
 ### 🏅 Certifications
 
-| 🏆 Certificate | 🏢 Issuer | 📅 Year | 🔗 Link |
+| 🏆 Certificate | 🏢 Issuer | 📅 Year | 
 |---|---|---|---|
-| Alteryx Designer Pro | Alteryx | 2024 | [View Certificate](#) |
+| Alteryx Designer Pro | Alteryx | 2026 | 
 
 ---
 
