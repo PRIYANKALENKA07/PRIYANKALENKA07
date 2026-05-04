@@ -65,6 +65,13 @@ My work spans end-to-end analytics: from data extraction and cleaning to visuali
 ![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)
 
 ---
+### 🏅 Certifications
+
+| 🏆 Certificate | 🏢 Issuer | 📅 Year | 🔗 Link |
+|---|---|---|---|
+| Alteryx Designer Pro | Alteryx | 2024 | [View Certificate](#) |
+
+---
 
 ### 📈 GitHub Stats
 
