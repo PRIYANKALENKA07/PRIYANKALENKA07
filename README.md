@@ -98,8 +98,7 @@ actually drives the culture.
 | Project | Description | Tools |
 |---|---|---|
 | 🛒 [Sales Dashboard](https://github.com/PRIYANKALENKA07/Sales-Analysis-Dashboard-using-UI-UX/tree/571a5ab722a0bed825b09375aa89a24036e523d5) | Interactive sales performance tracker with KPIs and trends | Power BI, SQL |
-|---|---|---|
-| 📊 [Survey Dashboard](YOUR_REPO_LINK_HERE) | End-to-end socio-economic survey analysis of 67K households across Keonjhar district | Python, Power BI, DAX |
+| 📊 [Survey Dashboard](https://github.com/PRIYANKALENKA07/A-Socio-Economic-Data-Analysis-Project)| End-to-end socio-economic survey analysis of 67K households across Keonjhar district | Python, Power BI, DAX |
 
 ---
 
