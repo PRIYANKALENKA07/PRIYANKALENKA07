@@ -78,7 +78,7 @@ actually drives the culture.
 
 | 🏆 Certificate | 🏢 Issuer | 📅 Year | 
 |---|---|---|
-| Alteryx Designer Pro | Alteryx | 2026 | 
+| Alteryx Designer Core | Alteryx | 2026 | 
 ---
 
 ### 📌 Featured Projects
