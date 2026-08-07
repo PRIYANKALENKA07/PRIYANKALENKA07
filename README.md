@@ -22,7 +22,7 @@ With hands-on experience in SQL, Python, Power BI, and Alteryx,
 I specialize in building dashboards that don't just look good 
 they help teams make faster, smarter decisions.
 
-I hold an Alteryx Designer Pro certification and have worked across 
+I hold an Alteryx Designer Core certification and have worked across 
 sales, HR, and customer analytics domains.
 
 Currently open to Data Analyst / BI Analyst roles where data 
